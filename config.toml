@@ -18,11 +18,11 @@ pluralizelisttitles = false
     identifier = "blog"
     url = "/"
 
-  [[menu.main]]
-    name = "Sobre Fabri"
-    weight = -110
-    identifier = "sobre"
-    url = "/sobre/"
+#  [[menu.main]]
+#    name = "Sobre Fabri"
+#    weight = -110
+#    identifier = "sobre"
+#    url = "/sobre/"
 
   [[menu.main]]
     name = "Instagram"
