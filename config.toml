@@ -21,7 +21,7 @@ pluralizelisttitles = false
   name = "Sobre Fabri"
   weight = -110
   identifier = "sobre"
-  url = "/sobre"
+  url = "/sobre/"
   
 [[menu.main]]
   name = "Instagram"
