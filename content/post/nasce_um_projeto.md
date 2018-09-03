@@ -1,7 +1,6 @@
 ---
 date: 2018-09-03T20:24:16-04:00
 title: Nasce um Projeto
-draft: false
 ---
 
 **Um novo projeto ganha vida!**
