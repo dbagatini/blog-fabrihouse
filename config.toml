@@ -10,7 +10,7 @@ paginate = 10
 canonifyurls = true
 copyright = "Todos os direitos reservados"
 pluralizelisttitles = false
-
+sectionPagesMenu = "main"
 [menu]
   [[menu.main]]
     name = "Página Inicial"
