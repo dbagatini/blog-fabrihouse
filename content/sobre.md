@@ -4,9 +4,7 @@ draft: false
 title: Sobre Fabri
 menu:
   main:
-    title: "how to use menus in templates"
-    parent: "templates"
-    weight: 130
+    identifier: "sobre"
 ---
 
 Num mundo industrializado, onde tudo é feito em lote, é difícil encontrar belos objetos artesanais e personalizados. Toda produção ocorre de forma automática e impessoal, deixando de lado o toque humano, o carinho e a atenção ao detalhe do trabalho manual.
