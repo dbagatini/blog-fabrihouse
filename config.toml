@@ -1,4 +1,4 @@
-baseurl = "blog.fabrihouse.com/"
+baseurl = "https://blog.fabrihouse.com/"
 languageCode = "pt-br"
 title = "Fabri"
 theme = "hugo-theme-casper"
