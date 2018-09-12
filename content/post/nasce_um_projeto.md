@@ -27,6 +27,6 @@ Nesse modelo de produção, o ourives deixa de existir e o trabalho é realizado
 
 Compreender cada etapa necessária para se criar uma joia e adquirir a habilidade necessária para realizar cada atividade, ou seja, se tornar um ourives, é algo que demanda muito tempo e exige muita dedicação.
 
-O caminho para deixar de ser apenas um curioso e se tornar um ourives experiente é muito longo. Essa é uma jornada com muitas etapas e obstáculos, mas, como todas as jornadas desse tipo, conforme caminhamos podemos encontrar momentos de paz e alegria. Quando olhamos para trás e vemos o caminho percorrido podemos nos sentir orgulhosos pelas nossas conquistas.
+O caminho para deixar de ser apenas um curioso e se tornar um ourives experiente é muito longo. Essa é uma jornada com muitas etapas e obstáculos, mas, como todas as jornadas desse tipo, conforme caminhamos podemos encontrar momentos de paz e alegria. Quando olhamos para trás e vemos o caminho percorrido, podemos nos sentir orgulhosos pelas nossas conquistas.
 
 Assim, esse é o início dessa jornada para o **Fabri House**. Aqui tudo começa, com o primeiro passo, e os passos seguintes virão com muita dedicação.
