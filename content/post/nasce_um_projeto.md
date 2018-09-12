@@ -21,7 +21,7 @@ Com a pressa das pessoas e a necessidade de uma produção rápida, muitas etapa
 
 Em muitas joalherias, o trabalho manual é muito restrito e ocorre apenas nas etapas em que uma máquina não tem um bom desempenho. Para algumas peças, todo o processo é realizado por máquinas! Com isso, é possível produzir uma grande quantidade de joias, também muito bonitas, em um tempo muito curto. Mas, apesar de deterem beleza e uniformidade externa, falta a essas joias aquilo que lhes dá a vida: o cuidado e o carinho em sua confecção. Elas são impessoais, produzidas em série.
 
-Nesse modelo de produção o ourives deixa de existir e o trabalho é realizado por pessoas especializadas em cada etapa: muitas vezes a pessoa que realiza, por exemplo, o polimento, pouco sabe de todo o restante do processo de criação da joia. 
+Nesse modelo de produção, o ourives deixa de existir e o trabalho é realizado por pessoas especializadas em cada etapa: muitas vezes a pessoa que realiza, por exemplo, o polimento, pouco sabe de todo o restante do processo de criação da joia. 
 
 ### Um Longo Caminho
 
