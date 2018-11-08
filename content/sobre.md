@@ -2,6 +2,7 @@
 date: 2018-08-01T10:15:23-04:00
 draft: false
 title: Sobre Fabri
+image: images/denny-muller-718640-lr.jpg
 menu:
   main:
     weight: -110
