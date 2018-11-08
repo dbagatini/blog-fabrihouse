@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://blog.fabrihouse.com/"
 languageCode = "pt-br"
 title = "Fabri"
 theme = "hugo-theme-casper"
@@ -11,22 +11,23 @@ canonifyurls = true
 copyright = "Todos os direitos reservados"
 pluralizelisttitles = false
 
-[[menu.main]]
-  name = "Página Inicial"
-  weight = -120
-  identifier = "blog"
-  url = "/"
+[menu]
+  [[menu.main]]
+    name = "Página Inicial"
+    weight = -120
+    identifier = "blog"
+    url = "/"
 
-[[menu.main]]
-  name = "Sobre Fabri"
-  weight = -110
-  identifier = "sobre"
-  url = "/sobre"
-  
-[[menu.main]]
-  name = "Instagram"
-  url = "https://www.instagram.com/fabri.house/"
-  weight = 101
+#  [[menu.main]]
+#    name = "Sobre Fabri"
+#    weight = -110
+#    identifier = "sobre"
+#    url = "/sobre/"
+
+  [[menu.main]]
+    name = "Instagram"
+    url = "https://www.instagram.com/fabri.house/"
+    weight = 101
 
 [params]
   description = "Buscando a perfeição em cada detalhe"
@@ -40,7 +41,7 @@ pluralizelisttitles = false
   #authoravatar = ""
   bio = "Uma pessoa curiosa, que adora aprender e tentar coisas novas, em busca de bons momentos na beleza da joalheria artesanal."
   logo = "images/logo.png"
-  #googleAnalyticsUserID = "UA-79101-12"
+  googleAnalyticsUserID = "UA-15986538-4"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   #RSSLink = "http://feeds.feedburner.com/..."
   #githubName = "vjeantet"
