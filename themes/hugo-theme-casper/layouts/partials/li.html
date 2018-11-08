@@ -4,7 +4,7 @@
         <h2 class="post-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
     </header>
     <section class="post-excerpt">
-        <p>{{ .Summary }} <a class="read-more" href="{{.RelPermalink}}"><small>Continue a leitura</small> &raquo;</a></p>
+        <p>{{ .Summary }} <a class="read-more" href="{{.RelPermalink}}">&raquo;</a></p>
     </section>
     <footer class="post-meta">
         {{$author:= .Site.Params.author}}
@@ -30,11 +30,7 @@
                 <a href="{{$baseurl}}tags/{{ $tag | urlize }}/">#{{ $tag }}</a>,
             {{ end }}
         {{end}}
-<<<<<<< HEAD
         <time class="post-date" datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}'>
-=======
-        <time class="post-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
->>>>>>> 89705697ae01c27c90a6443f0330f6e37f65e92c
             {{ .Date.Format "02.01.2006" }}
         </time>
     </footer>
